@@ -482,7 +482,7 @@ hr {
   .right {
     position: fixed;
     transform: translate(-50%, -50%);
-    top: 45%;
+    top: 48%;
     left: 50%;
     background-color: var(--White);
     width: 70vw;
