@@ -509,9 +509,12 @@ hr {
     border-radius: 5px;
     border: 1px solid hsla(231, 11%, 63%, 0.3);
   }
+  .plan{
+    height: 380px;
+  }
   .select-div {
     flex-direction: column;
-    gap: 7px;
+    gap: 10px;
     margin-top: 10px;
   }
   .select {
